@@ -16,7 +16,7 @@ Classify images of cats and dogs and predict future unseen images with maximum a
 
 
 
- Dataset
+ Dataset:
 
  
 •	Download the Cats vs Dogs dataset from [Kaggle](https://www.kaggle.com/c/dogs-vs-cats/data)
