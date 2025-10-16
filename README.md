@@ -21,7 +21,6 @@ Classify images of cats and dogs and predict future unseen images with maximum a
 •	Images resized to 64×64 and normalized using ImageDataGenerator.
 
 
-
 ## Data Preprocessing: 
 
 Images were resized, normalized, and augmented for better model performance.
