@@ -1,23 +1,18 @@
-Cat vs Dog Image Classification (CNN)
+# Cat vs Dog Image Classification (CNN)
 
 
 
-Overview: 
+## Overview: 
 A Convolutional Neural Network (CNN) model built using TensorFlow & Keras to classify images as Cat or Dog.
 
 It’s a binary image classification project aimed at achieving high accuracy on unseen data.
 
 
-
-
- Business Objective:
+## Business Objective:
  
 Classify images of cats and dogs and predict future unseen images with maximum accuracy.
 
-
-
- Dataset:
-
+## Dataset:
  
 •	Download the Cats vs Dogs dataset from [Kaggle](https://www.kaggle.com/c/dogs-vs-cats/data)
 
@@ -27,17 +22,13 @@ Classify images of cats and dogs and predict future unseen images with maximum a
 
 
 
-Data Preprocessing: 
+## Data Preprocessing: 
 
 Images were resized, normalized, and augmented for better model performance.
 
+## Model Architecture:
 
-
-
- Model Architecture:
-
- 
-1.	Conv2D + ReLU → Feature extraction
+ 1.	Conv2D + ReLU → Feature extraction
    
 2.	MaxPooling2D → Downsampling
    
