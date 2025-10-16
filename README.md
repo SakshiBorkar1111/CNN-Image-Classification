@@ -40,7 +40,7 @@ Images were resized, normalized, and augmented for better model performance.
 
    
 
- Results:
+## Results:
 
  
 -	Successfully classifies cat and dog images with good accuracy.
